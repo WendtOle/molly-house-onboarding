@@ -1,0 +1,5 @@
+node_modules
+dist
+package-lock.json
+# GitHub-only editors need valid content, not a formatter installation.
+content/hints/
